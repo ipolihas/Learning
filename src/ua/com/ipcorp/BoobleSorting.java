@@ -1,4 +1,4 @@
-
+package ua.com.ipcorp;
 public class BoobleSorting {
 	public static void main(String[] args) {
 

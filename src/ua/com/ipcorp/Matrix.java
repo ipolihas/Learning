@@ -1,4 +1,6 @@
-public class HelloWorld {
+package ua.com.ipcorp;
+
+public class Matrix {
 	public static void main(String[] args) {
 
 		int i, j, k = 1, n=5;
